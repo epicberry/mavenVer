@@ -3,7 +3,7 @@
 
   <groupId>com.epicberry</groupId>
   <artifactId>mavenVer</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.1.2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>mavenVer</name>
