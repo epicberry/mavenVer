@@ -10,7 +10,7 @@
   <url>http://maven.apache.org</url>
   
   <modules>
-  <module>eb1</module>
+    <module>eb1</module>
     <module>eb2</module>
     <module>eb3</module>
   </modules>
