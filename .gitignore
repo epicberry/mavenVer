@@ -1,7 +1,4 @@
 .idea
-eb1/target/*.*
-eb2/target/*.*
-eb3/target/*.*
 mavenVer.iml
 release.properties
 eb1/pom.xml.releaseBackup
