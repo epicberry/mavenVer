@@ -3,7 +3,7 @@
 
   <groupId>com.epicberry</groupId>
   <artifactId>mavenVer</artifactId>
-  <version>1.2.0-SNAPSHOT</version>
+  <version>1.2.0</version>
   <packaging>pom</packaging>
 
   <name>mavenVer</name>
@@ -22,7 +22,7 @@
 
   <scm>
     <connection>scm:git:https://github.com/epicberry/mavenVer.git</connection>
-    <tag>HEAD</tag>
+    <tag>mavenVer-1.2.0</tag>
   </scm>
 
   <dependencies>
